@@ -16,6 +16,8 @@ Denna uppgift kräver av dig att du behöver kolla upp hur filhantering går til
 
 ### Krav för olika betyg
 
+Vid implementation av filhantering samt klasser så är uppgiften på en A-nivå, annars C.
+
 ## Dokumentation & Planering
 
 ### Loggbok
